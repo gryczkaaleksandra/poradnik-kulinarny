@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomysł na Twój Posiłek</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+        <div class="logo">🍳 Kulinarny Asystent</div>
+        <button id="hamburger-btn" class="hamburger">☰</button>
+        <nav id="nav-menu">
+            <ul>
+                <li><a href="#wyszukiwarka-przepisow">Wyszukiwarka</a></li>
+                <li><a href="#o-projekcie">O projekcie</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+      <section id="wyszukiwarka-przepisow">
+  <h2>Pomysł na Twój posiłek!</h2>
+  
+  <form id="form-pytania">
+    <label for="posilek">Jaki posiłek planujesz zjeść?</label>
+    <select id="posilek">
+      <option value="sniadanie">Śniadanie</option>
+      <option value="obiad">Obiad</option>
+      <option value="kolacja">Kolacja</option>
+    </select>
+
+    <label for="smak">Na jaki smak posiłku masz ochotę?</label>
+    <select id="smak">
+      <option value="slony">Słony</option>
+      <option value="slodki">Słodki</option>
+      <option value="ostry">Ostry</option>
+    </select>
+
+    <label for="kuchnia">Jaką kuchnie lubisz?</label>
+    <select id="kuchnia">
+      <option value="polska">Polska</option>
+      <option value="wloska">Włoska</option>
+      <option value="chinska">Chińska</option>
+      <option value="amerykanska">Amerykańska</option>
+    </select>
+
+    <button type="submit">Szukaj przepisu</button>
+  </form>
+
+  <div id="wynik">
+  </div>
+</section>
+
+<section id="o-projekcie" style="max-width: 500px; margin: 20px auto; text-align: center; color: #555;">
+            <h3>O projekcie</h3>
+            <p>Strona pomagająca w wyborze codziennych posiłków.</p>
+        </section>
+
+</main>
+<script src="script.js"></script>
+</body>
+</html>
