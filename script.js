@@ -62,7 +62,7 @@ const zbior_przepisow = [
         smak: "slodki",
         kuchnia: "chinska",
         opis: "Składniki: Ugotowany biały ryż, mleko, cukier, jabłko.<br><br>Przepis: Resztkę ryżu z wczoraj podgrzej w garnuszku z odrobiną mleka i dwiema łyżeczkami cukru.<br><br>Makro: 300 kcal | B: 6g | W: 60g | T: 4g",
-        zdj: "zdj/ryz-jablko.jpg"
+        zdj: "zdj/ryz-jablka.jpg"
     },
     {
         nazwa: "Jajka sadzone z sosem Sriracha",
@@ -102,7 +102,7 @@ const zbior_przepisow = [
         smak: "slony",
         kuchnia: "polska",
         opis: "Składniki: Schab, jajko, bułka tarta, ziemniaki, masło, sól, pieprz.<br><br>Przepis: Schab rozbij, panieruj w jajku i bułce, usmaż. Ziemniaki ugotuj.<br><br>Makro: 650 kcal | B: 35g | W: 50g | T: 30g",
-        zdj: "zdj/schabowy.jpg.jpg"
+        zdj: "zdj/schabowy.jpg"
     },
     {
         nazwa: "Knedle ze śliwkami",
@@ -118,7 +118,7 @@ const zbior_przepisow = [
         smak: "ostry",
         kuchnia: "polska",
         opis: "Składniki: 500g wieprzowiny, cebula, papryka, pasta chili, bulion, przyprawy.<br><br>Przepis: Mięso podsmaż z cebulą. Zalej bulionem, dodaj paprykę i chili. Duś pod przykryciem do miękkości ok 1.5h.<br><br>Makro: 500 kcal | B: 40g | W: 15g | T: 28g",
-        zdj: "zdj/racuchy.jpg"
+        zdj: "zdj/spaghetti.jpg"
     },
     {
         nazwa: "Spaghetti Bolognese",
@@ -182,7 +182,7 @@ const zbior_przepisow = [
         smak: "slodki",
         kuchnia: "amerykanska",
         opis: "Składniki: Filet z kurczaka, słodki sos BBQ, miód, frytki z piekarnika.<br><br>Przepis: Kurczaka usmaż na patelni. Na sam koniec wlej 2 łyżki sosu BBQ wymieszane z łyżką miodu, żeby mięso pokryło się lepką, słodką glazurą. Podaj z frytkami.<br><br>Makro: 650 kcal | B: 35g | W: 60g | T: 25g",
-        zdj: "zdj/kurczal-miod.jpg"
+        zdj: "zdj/kurczak-miod.jpg"
     },
     {
         nazwa: "Buffalo Wings (Ostre skrzydełka)",
