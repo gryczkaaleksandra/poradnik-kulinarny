@@ -10,3 +10,6 @@ Strona zbudowana przy użyciu:
 Funkcjonalności JS:
 - Wyszukiwanie i losowanie przepisów z bazy
 - Rozwijane menu mobilne
+
+Link do strony internetowej: 
+https://gryczkaaleksandra.github.io/poradnik-kulinarny/
