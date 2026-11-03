@@ -118,7 +118,7 @@ const zbior_przepisow = [
         smak: "ostry",
         kuchnia: "polska",
         opis: "Składniki: 500g wieprzowiny, cebula, papryka, pasta chili, bulion, przyprawy.<br><br>Przepis: Mięso podsmaż z cebulą. Zalej bulionem, dodaj paprykę i chili. Duś pod przykryciem do miękkości ok 1.5h.<br><br>Makro: 500 kcal | B: 40g | W: 15g | T: 28g",
-        zdj: "zdj/spaghetti.jpg"
+        zdj: "zdj/pikantny-gulasz-wieprzowy.jpg"
     },
     {
         nazwa: "Spaghetti Bolognese",
@@ -126,7 +126,7 @@ const zbior_przepisow = [
         smak: "slony",
         kuchnia: "wloska",
         opis: "Składniki: Makaron spaghetti, mięso mielone wołowe, przecier pomidorowy, cebula, czosnek, oliwa.<br><br>Przepis: Podsmaż mięso z cebulą i czosnkiem. Zalej przecierem, przypraw, duś. Podawaj z makaronem.<br><br>Makro: 550 kcal | B: 30g | W: 65g | T: 18g",
-        zdj: "pikantny-gulasz-wieprzowy.jpg"
+        zdj: "spaghetti.jpg"
     },
     {
         nazwa: "Ravioli z ricottą na słodko",
